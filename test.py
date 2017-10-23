@@ -6,3 +6,8 @@ b = 50
 
 print(a+a-b)
 
+print(b+a)
+
+
+
+
